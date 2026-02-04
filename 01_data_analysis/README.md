@@ -10,3 +10,9 @@ The project demonstrates the ability to translate raw transactional data into me
 This module focuses on cleaning and preprocessing real-world retail sales data containing missing values, duplicate entries, and inconsistent data types. A structured cleaning pipeline was implemented using Pandas to prepare the dataset for reliable analysis.
 
 The work highlights practical data wrangling skills including median imputation, categorical normalization, duplicate handling, explicit type casting, and clean dataset generation—core competencies required in data analysis and data science roles.
+
+### Module 4: Exploratory Data Analysis (EDA)
+
+This module explores cleaned retail sales data to uncover revenue drivers, product performance, and regional trends. Aggregations and visualizations are used to convert metrics into actionable business insights.
+
+The work demonstrates the ability to ask business-driven questions, interpret patterns, and communicate insights clearly—core skills for data analysis internships.
