@@ -16,3 +16,9 @@ The work highlights practical data wrangling skills including median imputation,
 This module explores cleaned retail sales data to uncover revenue drivers, product performance, and regional trends. Aggregations and visualizations are used to convert metrics into actionable business insights.
 
 The work demonstrates the ability to ask business-driven questions, interpret patterns, and communicate insights clearly—core skills for data analysis internships.
+
+### Module 5: SQL for Data Analysis
+
+This module introduces SQL concepts commonly used by data analysts to query structured data. SQL queries are used to answer the same business questions explored with Pandas, reinforcing analytical thinking across tools.
+
+The focus is on translating business requirements into efficient database queries and understanding how SQL complements Python-based analysis in real-world data workflows.
