@@ -22,3 +22,9 @@ The work demonstrates the ability to ask business-driven questions, interpret pa
 This module introduces SQL concepts commonly used by data analysts to query structured data. SQL queries are used to answer the same business questions explored with Pandas, reinforcing analytical thinking across tools.
 
 The focus is on translating business requirements into efficient database queries and understanding how SQL complements Python-based analysis in real-world data workflows.
+
+### Module 5: SQL for Data Analysis
+
+In this module, SQL was used to query and analyze structured sales data stored in a relational database. The focus was on translating business questions into efficient SQL queries using filtering, aggregation, logical operators, and joins.
+
+Multi-table analysis was performed by combining sales data with product metadata to answer real-world business questions such as supplier performance, revenue distribution, data quality gaps, and risk concentration. This module reflects industry-standard analytical workflows used by data analysts.
