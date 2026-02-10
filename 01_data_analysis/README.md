@@ -22,3 +22,9 @@ The work demonstrates the ability to ask business-driven questions, interpret pa
 In this module, SQL was used to query and analyze structured sales data stored in a relational database. The focus was on translating business questions into efficient SQL queries using filtering, aggregation, logical operators, and joins.
 
 Multi-table analysis was performed by combining sales data with product metadata to answer real-world business questions such as supplier performance, revenue distribution, data quality gaps, and risk concentration. This module reflects industry-standard analytical workflows used by data analysts.
+
+### Module 6: SQL vs Pandas
+
+This module compares SQL and Pandas by solving identical business problems using both tools. The focus is on understanding tool trade-offs, performance considerations, and analytical intent rather than syntax alone.
+
+Through parity-based exercises, the module demonstrates when to push computation to databases using SQL and when to leverage Pandas for in-memory analysis, reflecting real-world data analyst decision-making.
