@@ -1,0 +1,7 @@
+order_id,order_date,region,product,category,quantity,unit_price
+1001,2023-01-05,North,Laptop,Electronics,2.0,750.0
+1002,2023-01-07,South,Mobile,Electronics,8.0,300.0
+1003,2023-01-10,East,Chair,Furniture,10.0,45.0
+1004,2023-01-15,West,Table,Furniture,8.0,120.0
+1005,2023-01-20,Unknown,Headphones,Electronics,8.0,60.0
+1006,2023-01-22,South,Sofa,Furniture,1.0,90.0
